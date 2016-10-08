@@ -1,0 +1,22 @@
+{
+  "name": "back-to-top.js",
+  "main": "index.js",
+  "version": "1.1",
+  "homepage": "https://github.com/serveryang/back-to-top.js",
+  "authors": [
+    "serveryang <serveryang@qq.com>"
+  ],
+  "description": "back to top scipt",
+  "keywords": [
+    "back-to-top.js"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
